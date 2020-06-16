@@ -11,6 +11,9 @@
             <li class="nav-item active">
                 <a class="nav-link" href="index.php?content=products">contact<span class="sr-only">(current)</span></a>
             </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="index.php?content=productpage">products<span class="sr-only"></span></a>
+            </li>
         </ul>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item active ">
@@ -19,6 +22,7 @@
             <li class="nav-item active ">
                 <a class="nav-link" href="index.php?content=register">registreer<span class="sr-only">(current)</span></a>
             </li>
+            
         </ul>
     </div>
 </nav>
